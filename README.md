@@ -20,20 +20,40 @@
 - **Библиотеки:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 - **Инструменты:** `Jupyter Notebook`, `VS Code`, `Git`, `PostgreSQL`
 
-## 🚀 Мои проекты
+## 🎮 Мои проекты
 
-### 🧪 [Алхимический симулятор](https://github.com/KoshaTailwind/Coding/blob/main/Coding/colored_potion.py)
-Интерактивная RPG для варки зелий на Python с системой крафта и сохранением рецептов
+### 🎭 Sarcasm Detection Service (NLP & MLOps)
+**Промышленный сервис для определения сарказма в английских текстах**
 
-### 🐶 [Анализ пород собак Stanford Dogs](https://github.com/KoshaTailwind/Coding/blob/main/Coding/DogBreed_PhotoAnalys.ipynb)
-**Полный ETL пайплайн обработки 20,000+ изображений**
-- 🔍 Анализ распределения 120 пород собак
-- 📊 Визуализация статистики и особенностей датасета  
-- 🛠 Обогащение данных дополнительными фичами
-- 📈 Построение интерактивных дашбордов
 
-### 📊 Анализ данных
-Примеры анализа и визуализации данных в Jupyter Notebook
+
+* **Что сделано:** Проведен EDA, выбрана лучшая модель (**Logistic Regression**, F1: 0.82) среди 4 архитектур.
+* **Стек:** `FastAPI`, `Scikit-learn`, `Docker`, `Joblib`.
+* **Фишка:** Проект полностью упакован в **Docker-контейнер**, реализован модульный подход (ООП) для препроцессинга и инференса.
+* **Интерфейс:** Автоматическая документация Swagger UI для тестирования запросов.
+
+[![View Code](https://img.shields.io/badge/VIEW-PROJECT-green?style=for-the-badge)](ТВОЯ_ССЫЛКА_НА_РЕПОЗИТОРИЙ_С_САРКАЗМОМ)
+
+---
+
+### 🧠 Обучение нейросети (Transfer Learning)
+**Fine-tuning предобученной модели для бинарной классификации**
+
+* **Технологии:** `Keras`, `DenseNet201`.
+* **Результат:** Достигнута метрика **F1 > 0.9** за счет стратегии заморозки весов и точечной дообучаемости последних 10 слоев.
+* **Инструменты:** Adam optimizer, работа с генераторами данных.
+
+[![Open Notebook](https://img.shields.io/badge/OPEN-NOTEBOOK-orange?style=for-the-badge)](https://github.com/KoshaTailwind/Coding/blob/main/Svertochnaya.ipynb)
+
+---
+
+### 🧪 Алхимический симулятор (Python RPG)
+**Игровое приложение для варки зелий с системой крафта**
+
+* **Особенности:** Система сохранения рецептов в файлы, валидация ввода и динамическое меню.
+* **Стек:** Чистый Python (OOP), работа с файловой системой.
+
+[![View Code](https://img.shields.io/badge/VIEW-CODE-blue?style=for-the-badge)](https://github.com/KoshaTailwind/Coding/blob/main/Coding/colored_potion.py)
 
 ## 📞 Связь со мной
 
