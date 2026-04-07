@@ -1,6 +1,6 @@
 # 👋 Привет, я Лиза!
 
-**Data Scientist с уникальным бэкграундом в психологии и менеджменте**
+**Data Scientist с уникальным бэкграундом в психологии и менеджменте.**
 **Сертификат об окончании курса по Data Science - https://disk.yandex.ru/d/kB4uhriR7AFvkg**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
